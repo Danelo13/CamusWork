@@ -1,0 +1,10 @@
+Puede escribir y modificar este documento como quiera 
+Lo usare para presentar mis problemas. 
+
+El Cerdo se le parcialmente, La cabeza y parte de las piernas no aparecen. 
+
+
+
+Uso Parser_.H/cpp como Parser, Parser.h/cpp es la version anterior. 
+Ahi se escribe los indices que esta leyendo 
+
